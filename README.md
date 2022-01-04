@@ -59,7 +59,7 @@
   
   <br />
 
-  <a style="margin: auto;" href="#">
+  <a style="margin: auto; text-align: center;" href="#">
     <img align="center" alt="Sohib Jaynarov's Overall GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sohibjaynarov&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
   </a>
 
