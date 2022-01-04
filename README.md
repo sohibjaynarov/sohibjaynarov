@@ -61,14 +61,15 @@
 
   
   
-  <menu style="display: flex; justify-content: space-between;">
-  <a style="margin: auto; text-align: center;" href="#">
+<p align = center>
+  <a style="display: inline" href="#">
     <img align="center" alt="Sohib Jaynarov's Overall GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sohibjaynarov&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
   </a>
-<a style="margin: auto;" href="#">
+
+  <a style="display: inline" href="#">
     <img align="center" alt="Sohib Jaynarov's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohibjaynarov&layout=compact&langs_count=10&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
   </a>
-    </menu>
+  </p>
 
   
 
