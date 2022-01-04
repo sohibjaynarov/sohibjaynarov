@@ -58,9 +58,7 @@
 ## 🔰 Miscellaneous (tap to open each)
 
 <details>
-  <summary>⚡ Sohib Jaynarov's Overall GitHub Stats</summary>
-    
-    <br />
+  <summary>⚡ Overall GitHub Status</summary>
   
 <p align = center>
   <a style="display: inline" href="#">
