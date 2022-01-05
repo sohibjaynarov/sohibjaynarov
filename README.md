@@ -58,7 +58,7 @@
 ## 🔰 Miscellaneous (tap to open each)
 
 <details>
-  <summary>⚡ Overall GitHub Status</summary>
+  <summary>⚡ Overall GitHub Stats</summary>
   
 <p align = center>
   <a style="display: inline" href="#">
