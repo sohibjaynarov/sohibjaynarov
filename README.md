@@ -34,7 +34,7 @@
 
 
 ## 🔨 Languages and Tools:
-
+<p align = center>
 [<img align="left" alt="HTML" width="26px" src="./techs/html.svg" />][html]
 [<img align="left" alt="CSS" width="26px" src="./techs/css.svg" />][css]
 [<img align="left" alt="Python" width="26px" src="./techs/python.svg" />][python]
@@ -52,6 +52,7 @@
 [<img align="left" alt="Linux" width="26px" src="./techs/linux.svg" />][linux]
 [<img align="left" alt="Windows" width="26px" src="./techs/windows 10.svg" />][windows]
 
+    </p>
 <br />
 <br />
 
