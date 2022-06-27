@@ -62,11 +62,11 @@
   
 <p align = center>
   <a style="display: inline" href="#">
-    <img align="center" alt="Sohib Jaynarov's Overall GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sohibjaynarov&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
+    <img align="center" alt="Sohib Jaynarov's Overall GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sokhibjaynarov&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
   </a>
 <br />
   <a style="display: inline" href="#">
-    <img align="center" alt="Sohib Jaynarov's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohibjaynarov&layout=compact&langs_count=10&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
+    <img align="center" alt="Sohib Jaynarov's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokhibjaynarov&layout=compact&langs_count=10&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
   </a>
   </p>
 
@@ -81,7 +81,7 @@
 
 ## 💻 Last month's activity
 <!-- https://github.com/sohibjaynarov/github-readme-activity-graph -->
-<a href=""><img alt="sohibjaynarov's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sohibjaynarov&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href=""><img alt="sohibjaynarov's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sokhibjaynarov&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
 
 
