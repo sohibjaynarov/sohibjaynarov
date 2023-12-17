@@ -8,7 +8,7 @@
 
 <!--ANIMATED WELCOME TEXT -->
 <p align="center">
-    <a href="https://github.com/sohibjaynarov/readme-typing-svg">
+    <a href="https://github.com/sokhibjaynarov/readme-typing-svg">
         <img
                 src="https://readme-typing-svg.herokuapp.com/?lines=DotNet%20Engineer%20Developer;More%20than%20a%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
 </p>
@@ -16,18 +16,18 @@
 
 ## 🙋‍♂️ Connect with me
 
-<!-- Badges template - https://github.com/sohibjaynarov -->
+<!-- Badges template - https://github.com/sokhibjaynarov -->
 <p align="center">
-    <a href="https://github.com/sohibjaynarov">
+    <a href="https://github.com/sokhibjaynarov">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/sohibjaynarov/">
+    <a href="https://www.linkedin.com/in/sokhibjaynarov/">
         <img alt="Linkedin"
              src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-     <a href="https://www.hackerrank.com/sohibjaynarov">
+     <a href="https://www.hackerrank.com/sokhibjaynarov">
         <img alt="Hackerrank"
              src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-    <a href="https://www.facebook.com/sohibjaynarov">
+    <a href="https://www.facebook.com/sokhibjaynarov">
         <img alt="Facebook"
              src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </p>
@@ -80,8 +80,8 @@
   
 
 ## 💻 Last month's activity
-<!-- https://github.com/sohibjaynarov/github-readme-activity-graph -->
-<a href=""><img alt="sohibjaynarov's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sokhibjaynarov&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<!-- https://github.com/sokhibjaynarov/github-readme-activity-graph -->
+<a href=""><img alt="sokhibjaynarov's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sokhibjaynarov&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
 
 
